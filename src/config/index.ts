@@ -1,5 +1,5 @@
 export const proxy = [
-  'https://api.pikpakshare.workers.dev',
+  'https://pp.xldtd.workers.dev',
 ]
 
 export const serverNumbers = [
